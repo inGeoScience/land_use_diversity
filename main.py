@@ -1,0 +1,7 @@
+import func_calculate_Shannon_Entropy
+
+
+func_calculate_shannon = func_calculate_Shannon_Entropy.calculateShannonEntropy()
+rows_list = func_calculate_shannon.get_data()
+entropy_list = func_calculate_shannon.calculate_shannon_entropy(rows_list)
+func_calculate_shannon.save_excel(entropy_list)
