@@ -1,4 +1,6 @@
-# land_use_entropy
-### 需要额外安装numpy、pandas、tkinter库
-### 支持计算归一化熵和香农熵
-### 示例见sample_excel.xlsx
+# land_use_diversity
+# 土地利用多样性
+
+计算建成环境中的土地利用多样性
+
+calculate the diversity index of built-environment
